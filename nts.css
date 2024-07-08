@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQubx2fZYLmt0OcxLaMNkb0TyI36HDR4UXaDFTXrVCe7o_dvVG5);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color: white;
+    height: 500px;
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 200px;
+    position: relative;
+    
+}
+.box{
+    background-color: whitesmoke ;
+    height: 500px;
+    width: 380px;
+    margin-left: 620px;
+    position: absolute;
+    top: 0;
+}
+
+.container img{
+    height: 60px;
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 55px;
+}
+.Candidate{
+    font-size: 28px;
+    color: #F78410;
+    position: absolute;
+    left: 210px;
+    top: 100px;    
+}
+.CNIC{
+    font-size: 13px;
+    position: absolute;
+    left: 220px;
+    top: 160px;
+}
+.a{
+    color: black;
+    width: 150px;
+    position: absolute;
+    top: 168px;
+    left: 30px;
+
+}
+.b{
+    color: black;
+    width: 140px;
+    position: absolute;
+    top: 168px;
+    left: 420px;
+}
+.text{
+    position: absolute;
+    left: 90px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 08px;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+input{
+    padding: 10px;
+    width: 530px;
+}
+.pass{
+    color: #5A8DEE;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+button{
+    background-color: #F78410;
+    width: 500px;
+    height: 40px;
+    margin-left: 45px;
+    margin-top: 20px;
+    position: relative;
+}
+button:hover{
+    background-color: #2c6de9;
+}
+i{
+    color: white;
+    position: absolute;
+    right: 5px;
+    top: 11px;
+}
+.login{
+    font-size: 15px;
+    color: white;
+}
+.c{
+    margin-top: 15px;
+    margin-left: 30px;
+    width: 530px;
+}
+.ptag{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 20px;
+    gap: 10px;
+}
+.sign{
+    color: #5A8DEE;
+    font-size: 21px;
+    margin-top: -5px;
+    font-weight: normal;
+}
+.box img{
+    height: 230px;
+    width: 290px;
+    margin-left: 40px;
+}
+.Urdu{
+    color: darkblue;
+    width: 320px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 30px;
+    direction: rtl;
+}

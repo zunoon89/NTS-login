@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9xqSIM8Cw_DBHLgWNE1DtAl4REUdbZAhajY3B6snY4u5A0THe);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box{
+    background-color: white;
+    height: 1160px;
+    width: 800px;
+    margin: auto;
+    overflow-y: auto;
+    
+}
+.a{
+    margin-top: 20px;
+    width: 95%;
+    margin-left: 21px;
+}
+.b{
+    margin-top: 5px;
+    width: 85%;
+    margin-left: 59px;
+}
+.box img{
+    height: 80px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.Candidate{
+    color: #475F7B;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+}
+.form{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.in input{
+    margin-top: 10px;
+    width: 370px;
+    padding: 08px;
+}
+label{
+    display: block;
+    margin-top: 10px;
+}
+.form-group{
+    margin-left: 400px;
+    margin-top: -73px;
+}
+.country label{
+    margin-left: 20px;
+    margin-top: -20px;
+}
+.country input{
+    margin-top: 10px;
+}
+.cn{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 15px;
+}
+.cd{
+    margin-left: 117px;
+    margin-top: -15px;
+    color: red;
+    font-size: 12px;
+}
+.aaa input{
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 770px;
+    padding: 10px;
+}
+.discrip{
+    color: red;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.discrip li{
+    margin-left: 45px;
+}
+.bbb{
+    margin-top: 25px;
+    margin-left: 45px;
+}
+.bbb input{
+    margin-top: 10px;
+    width: 700px;
+    padding: 10px;
+}
+.discription{
+    margin-left: 45px;
+    margin-top: 10px;
+}
+.discription li{
+    color: red;
+    margin-left: 45px;
+    width: 80%;
+}
+.ccc{
+    margin-top: 25px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+.ccc input{
+    margin-top: 10px;
+    width: 750px;
+    padding: 10px;
+}
+.button{
+    height: 15px;
+    width: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.agree{
+    margin-left: 40px;
+    margin-top: -17px;
+}
+.term{
+    margin-left: 165px;
+    margin-top: -18px;
+    color: #0000FF;
+}
+.Sign{
+    
+    font-size: 15px;
+    color: white;
+}
+.btt{
+    background-color: #F78410;
+    width: 750px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+}
+.btt:hover{
+    background-color: #2c6de9;
+}
+i{
+    color: white;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+}
+.c{
+    margin-top: 20px;
+    width: 95%;
+    margin-left: 20px;
+}
+.account{
+    margin-left: 270px;
+    margin-top: 25px;
+}
+.lss{
+    color: #4e73df;
+    margin-left: 440px;
+    margin-top: -18px;
+}
